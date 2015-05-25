@@ -1,0 +1,1 @@
+int Validar(int num);
